@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test 
 add ednow to main
+=======
+test 
+>>>>>>> branch-new
